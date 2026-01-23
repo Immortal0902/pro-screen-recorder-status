@@ -1,6 +1,6 @@
 {
   "app_enabled": false,
   "latest_version": "1.0.0",
-  "force_update": false,
+  "force_update": true,
   "message": "App running normally"
 }
