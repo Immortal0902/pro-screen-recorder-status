@@ -1,0 +1,13 @@
+{
+  "app_name": "Pro Screen Recorder",
+  "current_version": "1.0.0",
+  "app_id": "psr_win_001",
+  "remote_endpoint": "PASTE_RAW_STATUS_JSON_URL_HERE",
+  "fallback_endpoint": "",
+  "update_url": "",
+  "settings": {
+    "check_interval_minutes": 60,
+    "auto_update_enabled": false,
+    "offline_mode_allowed": true
+  }
+}
