@@ -1,10 +1,18 @@
 {
-  "app_enabled": true,
+  "app_control": {
+    "enabled": true,
+    "mode": "normal"
+  },
 
-  "latest_version": "10.0.0",
-  "update_deadline": "2026-02-06",
-  "force_update": false,
-  "update_message": "New update available. Please update within 7 days.",
+  "update_control": {
+    "latest_version": "10.0.0",
+    "update_deadline": "2026-02-06",
+    "force_update": false,
+    "update_message": "New update available. Please update within 7 days."
+  },
 
-  "info_message": "Server maintenance tonight from 10 PM to 11 PM."
+  "info_control": {
+    "show": true,
+    "info_message": "Server maintenance tonight from 10 PM to 11 PM."
+  }
 }
